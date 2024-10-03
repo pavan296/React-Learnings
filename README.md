@@ -17,3 +17,30 @@
 - Error handling
 - HTTPS
 - Tree Shaking
+
+---
+
+#Namaste Food
+
+/\*\*
+
+-
+- Header
+- - logo
+- - Nav iteam
+- Body
+- - search
+- - RestaurantContainer
+- - RestuarantCard
+- Footer
+- - CopyRight
+- - Links
+- - Address
+    \*/
+
+    ***
+
+    Hooks: Normal js utility functions
+
+    useState();
+    useEffect()
